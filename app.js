@@ -38,4 +38,4 @@ app.get('/',async (req,res)=>{
 })
 
 
-app.listen(https://prakhar7184.github.io/random_users/);
+app.listen('https://prakhar7184.github.io/random_users/');
