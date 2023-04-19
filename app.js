@@ -38,7 +38,4 @@ app.get('/',async (req,res)=>{
 })
 
 
-app.listen(3000,()=>{
-    console.clear();
-    console.log(`Connected to 3000`)
-})
+app.listen(https://prakhar7184.github.io/random_users/);
